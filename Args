@@ -1,0 +1,40 @@
+# python functions
+def fruit(*args):
+    for item  in args:
+        print(item)
+        
+fruit("Passion","Mango","Banana","Kiwi")
+
+
+
+
+#Args
+def marks(*args):
+    for mark in args:
+        print(mark)
+marks(30,20,90,65,)
+
+
+
+
+
+#
+def marks(*args):
+    for mark in args:
+        print(mark)
+marks(30,20,90,65,50)
+
+
+
+
+# python functions
+def fruit(*args):
+    for item  in args:
+        print(item)
+        
+fruit("Passion","Mango","Banana","Kiwi")
+
+def marks(*args):
+    for mark in args:
+        print(mark)
+marks(30,20,90,65,)

@@ -1,0 +1,6 @@
+def students(**kwargs):
+    for x,y in kwargs.items():
+        print(x,y)
+        
+students(name="Fidelis",RegNo="36",email="john@gmail.com",age="22")
+

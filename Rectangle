@@ -1,0 +1,6 @@
+#python Functions
+def rectangle(length,width=15):
+    area = length * width
+    return area
+    
+print rectangle (7,3)

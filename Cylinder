@@ -1,0 +1,7 @@
+#Volume of cylinder
+def volume_of_cylinder(pi,r,h):
+    volume= pi*r*r*h
+    return volume
+    
+print (volume_of_cylinder(3.12,6,2))
+
